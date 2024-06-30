@@ -403,3 +403,8 @@
 .notion-equation.notion-equation-block {
   align-items: center;
 }
+
+.notion-list > .notion-list {
+  padding-left: 0.3rem;
+  margin: 0;
+}
