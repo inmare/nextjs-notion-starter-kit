@@ -1,0 +1,3 @@
+[submodule "g-vercel-app-config"]
+	path = g-vercel-app-config
+	url = https://github.com/inmare/g-vercel-app-config.git
